@@ -12,6 +12,6 @@ A simple technical blog that will be used for tutorials on web development.
 ### Some resources:
 
 - [Series Outline](https://drive.google.com/file/d/11Dd9Lke1lnlP4C30xTQGeKtshWzauCus/view?usp=sharing)
-- [Github](https://drive.google.com/file/d/11Dd9Lke1lnlP4C30xTQGeKtshWzauCus/view?usp=sharing)
+- [Github](https://drive.google.com/drive/folders/1Lf1eQcIFMIgxHd3T1LakUP3Pb0zERYxm?usp=sharing)
 - [HTML5](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
 - [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
